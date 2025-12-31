@@ -1,0 +1,7 @@
+{
+  "name": "Kelulut UMT Repository",
+  "description": "An interactive educational repository for Indo-Malayan Stingless Bees (Kelulut) at UMT Bukit Kor. Features 360° virtual tours, species documentation, and an AI-powered FAQ chatbot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
